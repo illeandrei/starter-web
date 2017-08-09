@@ -13,3 +13,6 @@ Some purpose trololo
 ## Deployment
 
 ## How to Contribute
+
+
+2017 Git.training
