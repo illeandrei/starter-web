@@ -14,5 +14,7 @@ Some purpose trololo
 
 ## How to Contribute
 
+Please fork this repo and then issue Pull Request
+
 
 2017 Git.training
