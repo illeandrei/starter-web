@@ -4,6 +4,8 @@ This is a simple website project for whowing hot to use Git and Github together.
 
 ## Introduction
 
+Adding new line for rebeasing
+
 Some introduction bla bla trololo changes
 
 ## Purpose
