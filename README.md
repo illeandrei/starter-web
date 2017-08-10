@@ -18,5 +18,7 @@ Some purpose trololo
 
 Please fork this repo and then issue Pull Request
 
+All rights reservered
+
 
 2017 Git.training
