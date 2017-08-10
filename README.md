@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for whowing hot to use Git and Github together.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
