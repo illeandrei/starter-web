@@ -1,3 +1,4 @@
 ignoreThisFile.txt
 log/
 *.orig
+testIgnore/
